@@ -1,0 +1,13 @@
+name: ip-project
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - scikit-image
+  - scikit-learn
+  - numpy
+  - py-opencv
+  - imutils
+  - matplotlib
+
